@@ -12,7 +12,7 @@ import edu.fcps.karel2.Robot;
 public class Lab01 {
 
      public static void main(String[] args) {
-         Display.openWorld("maps/SSSSchool.map");         
+         Display.openWorld("maps/school.map");         
          Display.setSize(10, 10);
          Display.setSpeed(5);
          
